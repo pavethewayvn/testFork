@@ -1,4 +1,10 @@
 I am testing fork.
 I changed this line. ---> disapprove from upstream repository
 Pls. approve this line 
+
+They both wrote the same line 
+<<<<<< demo
 I am a newbie. I just practice writing code.
+=======
+I am a master, so I will change this line
+>>>>> master
